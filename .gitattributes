@@ -1,0 +1,6 @@
+*.cpp linguist-vendored=true
+*.c linguist-vendored=true
+*.h linguist-vendored=true
+*.cginc linguist-vendored=true
+*.shader linguist-vendored=true
+*.wlt linguist-vendored=true
